@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+You can find more from me here:
+- <a rel="me" href="https://norden.social/@ulfk">Mastodon</a>
+- [Personal homepage](https://ulf-kuehnle.de)
+
+
 <!--
 **ulfk/ulfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
